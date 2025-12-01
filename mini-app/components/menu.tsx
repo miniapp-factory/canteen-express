@@ -1,5 +1,5 @@
 "use client";
-import { useEffect, useState, createContext, useContext } from "react";
+import { useEffect, useState, createContext } from "react";
 import { MealCard } from "./meal-card";
 import { SearchBar } from "./search-bar";
 import { FilterButton } from "./filter-button";

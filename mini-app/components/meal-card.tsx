@@ -7,7 +7,14 @@ import {
   CardDescription,
 } from "@/components/ui/card";
 
-export function MealCard({ meal }: { meal: any }) {
+interface Meal {
+  id: string;
+  name: string;
+  description: string;
+  tags: string[];
+}
+
+export function MealCard({ meal }: { meal: Meal }) {
   return (
     <Card>
       <CardHeader>
