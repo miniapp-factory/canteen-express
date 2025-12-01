@@ -26,3 +26,9 @@
 
 # 2025-12-01 08:40:20.077328
 +apply changes
+
+# 2025-12-01 17:16:09.492161
++Add a filter button that opens a tag panel. The user can select tags such as spicy, non-spicy, vegetarian, bestseller, or budget meals. The app should update the meal list based on selected tags. Use OpenXAI to assist in understanding filter intent when multiple tags are applied.
+
+# 2025-12-01 17:16:09.493317
++Add a filter button that opens a tag panel. The user can select tags such as spicy, non-spicy, vegetarian, bestseller, or budget meals. The app should update the meal list based on selected tags. Use OpenXAI to assist in understanding filter intent when multiple tags are applied.
