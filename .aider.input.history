@@ -32,3 +32,15 @@
 
 # 2025-12-01 17:16:09.493317
 +Add a filter button that opens a tag panel. The user can select tags such as spicy, non-spicy, vegetarian, bestseller, or budget meals. The app should update the meal list based on selected tags. Use OpenXAI to assist in understanding filter intent when multiple tags are applied.
+
+# 2025-12-02 18:37:36.055680
++Create a persistent cart screen. When the user taps Add + on a meal card, the meal is pushed to the cart. Before saving, call OpenXAI to check inventory availability. If inventory is insufficient, block the add action and let OpenXAI suggest similar meals that are available. If inventory is valid, save the meal to the cart storage and update the cart count.
+
+# 2025-12-02 18:37:36.056110
++Create a persistent cart screen. When the user taps Add + on a meal card, the meal is pushed to the cart. Before saving, call OpenXAI to check inventory availability. If inventory is insufficient, block the add action and let OpenXAI suggest similar meals that are available. If inventory is valid, save the meal to the cart storage and update the cart count.
+
+# 2025-12-02 18:39:03.716479
++apply changes
+
+# 2025-12-02 18:39:03.716758
++apply changes
